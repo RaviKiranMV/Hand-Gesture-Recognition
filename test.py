@@ -7,7 +7,7 @@ import sys
 
 from keras.models import load_model
 # Load the model
-new_model = tf.keras.models.load_model("C:\\Users\DELL 7480\gesture_model_1.h5")
+new_model = tf.keras.models.load_model("C:\\Users\91812\Desktop\sem_prj\gesture_model_1.h5")
 
 mute_state = False  # Initialize mute state as False
 
