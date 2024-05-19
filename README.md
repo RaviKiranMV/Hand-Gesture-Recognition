@@ -9,8 +9,8 @@
   and use of gestures challenges the used devices such as the keyboard and mouse across a variety of applications depend heavily on the for input.
 * Gestures are natural and are frequently used in day- underlying technologies of computer vision, deep to-day communications. Therefore, communicating using learning, and machine learning.
   Gestures with computers creates a whole new standard of interaction.
-* In this project, with the help of computer vision 1) Computer vision: In order to replicate human visual and deep learning techniques, user hand movements (gestures) perception,
-  the discipline of computer vision involves are used to control the media player, PPT slides, minimizing the processing and interpretation of visual input from and closing the applications etc.
+* Computer vision: In order to replicate human visual and deep learning techniques, user hand movements (gestures) perception, the discipline of computer vision involves are used to control the media player,
+  PPT slides, minimizing the processing and interpretation of visual input from and closing the applications etc.
 * The proposed web application enables the user to use their local device camera to identify the outside environment.
   Computer vision techniques their gesture and execute the control over the media player and are used to record and decipher the motions and similar applications (without any additional hardware).
   It patterns of human gestures in the context of gestures, increases effectiveness and makes communication easy in allowing the user control his/her laptop/desktop from AI.
